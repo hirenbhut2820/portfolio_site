@@ -56,6 +56,7 @@ function App() {
             <p><strong>Icon TechSoft Pvt. Ltd.</strong> | Jan 2021 - Aug 2022 | Rajkot, Gujarat, India</p>
         </div>
       </section>
+      
 
       <section id="portfolio" className="section" data-aos="fade-up">
           <h2>Portfolio</h2>
